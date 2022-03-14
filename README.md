@@ -1,4 +1,4 @@
-![Social banner for domamaric](./layered-waves-haikei.svg)
+![Social banner for domamaric](./header-img.png)
 # Hello there! 👋
 
 My name is Domagoj and I'm computer science student at [**FER**](https://www.fer.unizg.hr/). I'm from Croatia and I currently live in Zagreb.
