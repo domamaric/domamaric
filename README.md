@@ -1,4 +1,4 @@
-![Social banner for domamaric](./header-img.png)
+![Social banner for domamaric](./header.gif)
 # Hello there! 👋
 
 My name is Domagoj and I'm computer science student at [**FER**](https://www.fer.unizg.hr/). I'm from Croatia and I currently live in Zagreb.
@@ -20,8 +20,8 @@ My name is Domagoj and I'm computer science student at [**FER**](https://www.fer
 
 ## GitHub stats 🚀
 
-![](https://github-readme-stats.vercel.app/api?username=domamaric&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=domamaric&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=domamaric&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=domamaric&theme=dracula)
 
 <!--
 **domamaric/domamaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
