@@ -26,8 +26,8 @@ I have acquired technical knowledge and skills from my course as well as practic
 
 ## GitHub stats 🚀
 
-![](https://github-readme-stats.vercel.app/api?username=domamaric&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=domamaric&theme=dracula)
+![Doma's GitHub stats](https://github-readme-stats.vercel.app/api?username=domamaric&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domamaric&hide_progress=true&theme=dark)
 
 <!--
 **domamaric/domamaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
